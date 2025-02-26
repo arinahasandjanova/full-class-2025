@@ -1,0 +1,3 @@
+/home/stud-12/Desktop/arina/2025 full class/20yan/reqexp/cmake-build-debug/CMakeFiles/reqexp.dir
+/home/stud-12/Desktop/arina/2025 full class/20yan/reqexp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stud-12/Desktop/arina/2025 full class/20yan/reqexp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
