@@ -26,7 +26,7 @@ int main() {
     cv::imshow("duckies", img2);
     //cv::imshow("duckies 2.0", resized);
     //cv::imshow("duckies 3.0", cropped);
-    cv::imshow("anti ducks", rotated);
+    cv::imshow("antiducks", rotated);
     cv::waitKey(0);
     cv::destroyAllWindows();
 
